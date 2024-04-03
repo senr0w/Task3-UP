@@ -196,12 +196,12 @@ namespace Task_3
                                                         {
                                                             Console.WriteLine("Данных по этому предмету нет");
                                                         }
-                                                    
-          
                                                 }
                                         }
                                     
                                     break;
+
+                                    //Среднее значение оценок
                                     case 5:  
                                     
                                         sql = $"select AVG(Credit) AS Srednie From Students";
@@ -220,6 +220,8 @@ namespace Task_3
                                                 }
                                             }
                                     break;
+                                  
+                                    //Вывод списка в обратном порядке
                                     case 6:
                                         sql = $"select * FROM Students Order by FamilyStud DESC;";
                                         using(SqlCommand revSpisok=new SqlCommand(sql, connection))
