@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\bin\Debug\Task_3.exe
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\bin\Debug\Task_3.pdb
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\obj\Debug\Task_3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\obj\Debug\Task_3.csproj.CopyComplete
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\obj\Debug\Task_3.exe
+C:\Users\User\Desktop\121\121 Учебная Практика\УП 2 Семестр\Task_3\Task_3\obj\Debug\Task_3.pdb
